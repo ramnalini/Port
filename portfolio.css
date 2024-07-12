@@ -1,0 +1,70 @@
+
+body {
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+  }
+   header {
+    background-color:rgb(247, 187, 187);
+    color: rgb(216, 171, 171);
+    padding: 20px;
+  }
+   ul li a {
+    color:burlywood;
+    text-decoration: none;
+  }
+  li{
+    display: inline;
+    margin-right:50px;
+  }
+ 
+ 
+  footer {
+    background-color: rgb(146, 202, 228);
+    color: rgb(236, 161, 214);
+    padding: 10px;
+  }
+   #home img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+   #portfolio{
+    background-color: antiquewhite;
+    padding: 10px;
+  }
+ 
+  body {
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+  }
+   header {
+    background-color:rgb(208, 240, 134);
+    color: #a6c2e7;
+    padding: 20px;
+  }
+   ul li a {
+    color:rgb(243, 144, 160);
+    text-decoration: none;
+  }
+  li{
+    display: inline;
+    margin-right:50px;
+  }
+ 
+ 
+  footer {
+    background-color: rgb(197, 115, 115);
+    color: #9bc3e4;
+    padding: 10px;
+  }
+   #home img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+   #portfolio{
+    background-color: rgb(230, 192, 142);
+    padding: 10px;
+  }
+ 
+  
